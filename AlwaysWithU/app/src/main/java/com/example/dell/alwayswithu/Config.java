@@ -5,6 +5,6 @@ package com.example.dell.alwayswithu;
  */
 
 public class Config {
-    public static final String EMAIL ="ishakansal934@gmail.com";
-    public static final String PASSWORD ="!$H@K@N$@L";
+    public static final String EMAIL ="singhprakharraj@gmail.com";
+    public static final String PASSWORD ="mcshane@123#";
 }
